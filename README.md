@@ -1,4 +1,4 @@
-# Memory matching game
+# Catch The Match
 
 ## <b> [Click here to Play the GAME!!](https://vectorstatic.github.io/Memory-Matching-Game/)
 
